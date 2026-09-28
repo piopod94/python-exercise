@@ -5,10 +5,10 @@
 #     if i %2 == 0:
 #         print(i)
 
-# counter = 0
-# for i in range(1, 101):
-#     counter += i
-# print(counter)
+counter = 0
+for i in range(1, 101):
+    counter += i
+print(counter)
 
 # numbers = [4, 7, 2, 7, 9, 7, 1, 3, 7, 5]
 # counter = 0
@@ -31,13 +31,13 @@
 #         x = n
 # print(x)
 
-numbers = [14, 7, 32, 19, 45, 3, 27, 41, 12]
-x = 0 #bigest number
-y = 0 #second bigest number
-for n in numbers:
-    if n > x:
-        y = x
-        x = n
-    elif n > y:
-        y = n
-print(y)
+# numbers = [14, 7, 32, 19, 45, 3, 27, 41, 12]
+# x = 0 #bigest number
+# y = 0 #second bigest number
+# for n in numbers:
+#     if n > x:
+#         y = x
+#         x = n
+#     elif n > y:
+#         y = n
+# print(y)
