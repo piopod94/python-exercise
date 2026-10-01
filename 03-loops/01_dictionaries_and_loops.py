@@ -97,16 +97,16 @@
 
 # Give materials that quantity is grater then 100
 
-materials = {
-    "Concrete": 300,
-    "Steel": 75,
-    "Wood": 75,
-    "Asphalt": 450
-}
+# materials = {
+#     "Concrete": 300,
+#     "Steel": 75,
+#     "Wood": 75,
+#     "Asphalt": 450
+# }
 
 
 
-for m in materials:
-    if materials[m] > 100:
-        print(m)
+# for m in materials:
+#     if materials[m] > 100:
+#         print(m)
 
